@@ -1,4 +1,4 @@
-# SMG IP Hub 工数概算
+# SMG IPGO+OPE Hub 工数概算 
 
 ## 概要
 

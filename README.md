@@ -1,12 +1,12 @@
 
-SMG IP Hub Estimation
+# SMG IP Hub Estimation
 
-# Overview
+## Overview
 
 These estimations cover the requested changes for IPGO and OPE platforms.
 Before reading please note that the IPGO and OPE current system was never designed to handle this level of complex integration between IPGO-OPE nor the many sensitive new features. It is highly likely a fully custom backend needs to be re-written. Directus might suffice but development speed might be slower over time and less flexibility intermf of admin UI. Include a buffer of 1-1.5months for a potential backend rewrite.
 
-# Key Assumptions Behind These Numbers
+## Key Assumptions Behind These Numbers
 
 - Team: 2 internal developers + occasional light outsourcing
 - All features are treated as small, isolated additions on top of a stable existing codebase
@@ -21,7 +21,7 @@ Before reading please note that the IPGO and OPE current system was never design
 
 #### These are best-case, minimum-possible numbers you can show the client so they can pick features.
 
-# Features work estimations
+## Features work estimations
 
 | # | Foundational & Common Feature | Dev Effort | PM / Sync | Testing | Legal Review |
 |---|-------------------------------|------------|-----------|---------|--------------|
@@ -100,7 +100,7 @@ While the IPGO platform estimations provide an optimistic roadmap, several limit
 | **Integration Dependencies** | Reliance on external APIs (DocuSign, payments, AI services) introduces downtime risks; WF/EXPO app sync could break with updates. | Feature failures; increased support needs. | Use fallback mechanisms; version APIs strictly. |
 
 
-# Production Ready-ness
+## Production Ready-ness
 
 While the application is feature rich, it is missing what is expected from global-tier b2c2c platform.
 
@@ -122,7 +122,7 @@ While the application is feature rich, it is missing what is expected from globa
 | M14 | Accessibility WCAG 2.1 AA | 2 mo | 0.5 mo | 1 mo |
 
 
-# Concluson
+## Concluson
 
 The IPGO platform, as outlined, is an ambitious integrated system for IP management, creator support, fan engagement, and Wonder Festival integration. However, feasibility is low for a full build with a 2-developer team due to the scope's complexity, requiring extensive Directus extensions for workflows like royalties and AI matching, which could evolve into a de facto custom backend as data manipulation scales.
 

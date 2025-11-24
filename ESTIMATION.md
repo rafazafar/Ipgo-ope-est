@@ -25,66 +25,66 @@ Before reading please note that the IPGO and OPE current system was never design
 
 | # | Foundational & Common Feature | Dev Effort | PM / Sync | Testing |
 |---|-------------------------------|------------|-----------|---------|
-| 1 | Bug fixes & UX polish (all Appendix 1) | 0.25 mo | 0.06 mo | 0.25 mo |
-| 2 | Stable SSO + role switching without logout bugs | 0.25 mo | 0.06 mo | 0.25 mo |
-| 3 | Unified dashboard with role-based UI auto-change | 0.25 mo | 0.06 mo | 0.25 mo |
-| 4 | Real-time data sync across all three sites + cross-promotion | 1.25 mo | 0.08 mo | 0.4 mo |
-| 5 | Integrated notification system | 0.75 mo | 0.05 mo | 0.25 mo |
-| 6 | Full multi-language real-time auto-translation | 1.5 mo | 0.1 mo | 0.5 mo |
-| 7 | Multi-currency payment & settlement everywhere | 1.5 mo | 0.1 mo | 0.5 mo |
-| 8 | GDPR + Japan + Korea personal data compliance | 1 mo | 0.1 mo | 0.4 mo |
+| 1 | Bug fixes & UX polish (all Appendix 1) | 0.25 mo | 0.25 mo | 0.25 mo |
+| 2 | Stable SSO + role switching without logout bugs | 0.25 mo | 0.25 mo | 0.25 mo |
+| 3 | Unified dashboard with role-based UI auto-change | 0.25 mo | 0.25 mo | 0.25 mo |
+| 4 | Real-time data sync across all three sites + cross-promotion | 1.25 mo | 0.3 mo | 0.4 mo |
+| 5 | Integrated notification system | 0.75 mo | 0.2 mo | 0.25 mo |
+| 6 | Full multi-language real-time auto-translation | 1.5 mo | 0.4 mo | 0.5 mo |
+| 7 | Multi-currency payment & settlement everywhere | 1.5 mo | 0.4 mo | 0.5 mo |
+| 8 | GDPR + Japan + Korea personal data compliance | 1 mo | 0.4 mo | 0.4 mo |
 
 | # | IP Owner Site Feature | Dev Effort | PM / Sync | Testing |
 |---|-----------------------|------------|-----------|---------|
-| 9 | Full IP registration with 100+ metadata fields | 1 mo | 0.06 mo | 0.25 mo |
-| 10 | Secondary creation guidelines public posting + official badge | 0.5 mo | 0.04 mo | 0.15 mo |
-| 11 | Secondary creation approval workflow (Approve/Reject/Hold + feedback) | 1 mo | 0.06 mo | 0.3 mo |
-| 12 | AI-assisted secondary creation auto-review | 1.5 mo | 0.1 mo | 0.4 mo |
-| 13 | Country-specific contract templates | 1 mo | 0.08 mo | 0.25 mo |
-| 14 | Electronic signature integration (DocuSign / ModuSign) | 1 mo | 0.06 mo | 0.25 mo |
-| 15 | Automated royalty calculation & splitting engine | 1.5 mo | 0.1 mo | 0.5 mo |
-| 16 | Multi-currency royalty settlement + escrow + MG offset | 1.5 mo | 0.1 mo | 0.4 mo |
-| 17 | Japan dual-permission certificate system | 0.75 mo | 0.05 mo | 0.2 mo |
-| 18 | Dispute filing & arbitration committee module | 1 mo | 0.08 mo | 0.3 mo |
-| 19 | AI-powered Creator/Brand matching & recommendations | 1.5 mo | 0.1 mo | 0.4 mo |
-| 20 | Advanced IP analytics dashboard + competitor comparison | 1.5 mo | 0.1 mo | 0.4 mo |
+| 9 | Full IP registration with 100+ metadata fields | 1 mo | 0.25 mo | 0.25 mo |
+| 10 | Secondary creation guidelines public posting + official badge | 0.5 mo | 0.15 mo | 0.15 mo |
+| 11 | Secondary creation approval workflow (Approve/Reject/Hold + feedback) | 1 mo | 0.25 mo | 0.3 mo |
+| 12 | AI-assisted secondary creation auto-review | 1.5 mo | 0.4 mo | 0.4 mo |
+| 13 | Country-specific contract templates | 1 mo | 0.3 mo | 0.25 mo |
+| 14 | Electronic signature integration (DocuSign / ModuSign) | 1 mo | 0.25 mo | 0.25 mo |
+| 15 | Automated royalty calculation & splitting engine | 1.5 mo | 0.4 mo | 0.5 mo |
+| 16 | Multi-currency royalty settlement + escrow + MG offset | 1.5 mo | 0.4 mo | 0.4 mo |
+| 17 | Japan dual-permission certificate system | 0.75 mo | 0.2 mo | 0.2 mo |
+| 18 | Dispute filing & arbitration committee module | 1 mo | 0.3 mo | 0.3 mo |
+| 19 | AI-powered Creator/Brand matching & recommendations | 1.5 mo | 0.4 mo | 0.4 mo |
+| 20 | Advanced IP analytics dashboard + competitor comparison | 1.5 mo | 0.4 mo | 0.4 mo |
 
 | # | Creator Site Feature | Dev Effort | PM / Sync | Testing |
 |---|----------------------|------------|-----------|---------|
-| 21 | Creator portfolio management | 0.75 mo | 0.05 mo | 0.2 mo |
-| 22 | Full digital/physical store with inventory | 1.25 mo | 0.08 mo | 0.35 mo |
-| 23 | Order fulfilment & shipping management system | 1.25 mo | 0.08 mo | 0.35 mo |
-| 24 | Automatic SNS cross-posting promotion | 0.5 mo | 0.04 mo | 0.15 mo |
-| 25 | Monthly recurring sponsorship tiers | 1 mo | 0.06 mo | 0.3 mo |
-| 26 | Project-based crowdfunding (All-or-Nothing + Keep-It-All) | 1 mo | 0.06 mo | 0.3 mo |
-| 27 | Collaboration proposal inbox/outbox | 0.75 mo | 0.05 mo | 0.2 mo |
-| 28 | AI-powered IP Owner matching | 1.25 mo | 0.08 mo | 0.3 mo |
-| 29 | Making-log / progress sharing with fans | 0.75 mo | 0.05 mo | 0.2 mo |
-| 30 | Revenue dashboard (sales + sponsorship + funding) | 1 mo | 0.06 mo | 0.25 mo |
-| 31 | Tax report generation | 0.75 mo | 0.05 mo | 0.25 mo |
+| 21 | Creator portfolio management | 0.75 mo | 0.2 mo | 0.2 mo |
+| 22 | Full digital/physical store with inventory | 1.25 mo | 0.3 mo | 0.35 mo |
+| 23 | Order fulfilment & shipping management system | 1.25 mo | 0.3 mo | 0.35 mo |
+| 24 | Automatic SNS cross-posting promotion | 0.5 mo | 0.15 mo | 0.15 mo |
+| 25 | Monthly recurring sponsorship tiers | 1 mo | 0.25 mo | 0.3 mo |
+| 26 | Project-based crowdfunding (All-or-Nothing + Keep-It-All) | 1 mo | 0.25 mo | 0.3 mo |
+| 27 | Collaboration proposal inbox/outbox | 0.75 mo | 0.2 mo | 0.2 mo |
+| 28 | AI-powered IP Owner matching | 1.25 mo | 0.3 mo | 0.3 mo |
+| 29 | Making-log / progress sharing with fans | 0.75 mo | 0.2 mo | 0.2 mo |
+| 30 | Revenue dashboard (sales + sponsorship + funding) | 1 mo | 0.25 mo | 0.25 mo |
+| 31 | Tax report generation | 0.75 mo | 0.2 mo | 0.25 mo |
 
 | # | Fan Site Feature | Dev Effort | PM / Sync | Testing |
 |---|------------------|------------|-----------|---------|
-| 32 | Personalised main feed & discovery | 1 mo | 0.06 mo | 0.3 mo |
-| 33 | Multi-layer ranking system (daily/weekly/genre/newcomer) | 0.75 mo | 0.05 mo | 0.25 mo |
-| 34 | Full community (comments, likes, follows, fan-art UGC) | 1.25 mo | 0.08 mo | 0.35 mo |
-| 35 | Direct Creator-Fan messaging | 0.75 mo | 0.05 mo | 0.25 mo |
-| 36 | Mana / point loyalty system | 0.75 mo | 0.05 mo | 0.25 mo |
-| 37 | Store with shopping cart & reviews | 1 mo | 0.06 mo | 0.3 mo |
-| 38 | Ticketing & reservation system | 0.75 mo | 0.05 mo | 0.25 mo |
-| 39 | Premium membership (Pro/Enterprise) perks | 0.5 mo | 0.04 mo | 0.2 mo |
-| 40 | Early access & limited-edition pre-orders | 0.5 mo | 0.04 mo | 0.2 mo |
+| 32 | Personalised main feed & discovery | 1 mo | 0.25 mo | 0.3 mo |
+| 33 | Multi-layer ranking system (daily/weekly/genre/newcomer) | 0.75 mo | 0.2 mo | 0.25 mo |
+| 34 | Full community (comments, likes, follows, fan-art UGC) | 1.25 mo | 0.3 mo | 0.35 mo |
+| 35 | Direct Creator-Fan messaging | 0.75 mo | 0.2 mo | 0.25 mo |
+| 36 | Mana / point loyalty system | 0.75 mo | 0.2 mo | 0.25 mo |
+| 37 | Store with shopping cart & reviews | 1 mo | 0.25 mo | 0.3 mo |
+| 38 | Ticketing & reservation system | 0.75 mo | 0.2 mo | 0.25 mo |
+| 39 | Premium membership (Pro/Enterprise) perks | 0.5 mo | 0.15 mo | 0.2 mo |
+| 40 | Early access & limited-edition pre-orders | 0.5 mo | 0.15 mo | 0.2 mo |
 
 | # | Wonder Festival × EXPO × IPGO Integration Feature | Dev Effort | PM / Sync | Testing |
 |---|---------------------------------------------------|------------|-----------|---------|
-| 41 | Wonder Festival booth application system (individual & corporate) | 1 mo | 0.06 mo | 0.3 mo |
-| 42 | WF-specific product registration & purchase limits | 0.5 mo | 0.04 mo | 0.2 mo |
-| 43 | WF-specific tabs & labels everywhere | 0.25 mo | 0.03 mo | 0.1 mo |
-| 44 | Real-time booth map in EXPO app synced with IPGO | 1.5 mo | 0.1 mo | 0.5 mo |
-| 45 | On-site payment & purchase sync | 1.25 mo | 0.08 mo | 0.4 mo |
-| 46 | Automatic WF sales reporting visible to IP Owners in real-time | 1.25 mo | 0.08 mo | 0.35 mo |
-| 47 | Mana rewards for on-site activities (booth visits, votes, etc.) | 0.75 mo | 0.05 mo | 0.25 mo |
-| 48 | AR / Pokémon GO-style event mode + mini-games at Wonder Festival | 2 mo | 0.13 mo | 0.6 mo |
+| 41 | Wonder Festival booth application system (individual & corporate) | 1 mo | 0.25 mo | 0.3 mo |
+| 42 | WF-specific product registration & purchase limits | 0.5 mo | 0.15 mo | 0.2 mo |
+| 43 | WF-specific tabs & labels everywhere | 0.25 mo | 0.1 mo | 0.1 mo |
+| 44 | Real-time booth map in EXPO app synced with IPGO | 1.5 mo | 0.4 mo | 0.5 mo |
+| 45 | On-site payment & purchase sync | 1.25 mo | 0.3 mo | 0.4 mo |
+| 46 | Automatic WF sales reporting visible to IP Owners in real-time | 1.25 mo | 0.3 mo | 0.35 mo |
+| 47 | Mana rewards for on-site activities (booth visits, votes, etc.) | 0.75 mo | 0.2 mo | 0.25 mo |
+| 48 | AR / Pokémon GO-style event mode + mini-games at Wonder Festival | 2 mo | 0.5 mo | 0.6 mo |
 
 ### Limitations and Potential Issues
 
@@ -106,20 +106,20 @@ While the application is feature rich, it is missing what is expected from globa
 
 | # | Missing Production Component | Dev Effort | PM / Sync | Testing |
 |---|------------------------------|------------|-----------|---------|
-| M1 | Full admin panel + user impersonation (not possible on directus) | 2 mo (rewrite) | 0.13 mo | 0.8 mo |
-| M2 | Rate limiting, brute-force protection, 2FA | 0.5 mo | 0.08 mo | 0.6 mo |
-| M3 | Proper monitoring + logging (Sentry/Datadog) | 1.5 mo | 0.1 mo | 0.4 mo |
-| M4 | CI/CD pipelines + automated tests | 2 mo | 0.13 mo | 1 mo |
-| M5 | Full security audit & pentest | 0.5 mo setup | 0.13 mo | 2 mo external |
-| M6 | Performance & load testing (10k+ users) | 0.5 mo | 0.1 mo | 1.5 mo |
-| M7 | Backup, disaster recovery & rollback | 0.5 mo | 0.13 mo | 0.8 mo |
-| M8 | Transactional email deliverability system | 1 mo | 0.08 mo | 0.4 mo |
-| M9 | KYC / age verification (JP requirements) | 1.5 mo | 0.1 mo | 0.5 mo |
-| M10 | Customer support tools integration | 1.5 mo | 0.13 mo | 0.5 mo |
-| M11 | Onboarding flows & in-app tutorials | 2 mo | 0.15 mo | 0.6 mo |
-| M12 | Full mobile-responsive + PWA fixes | 2 mo | 0.13 mo | 0.8 mo |
-| M13 | App Store / Google Play compliance | 1 mo | 0.13 mo | 0.5 mo |
-| M14 | Accessibility WCAG 2.1 AA | 2 mo | 0.13 mo | 1 mo |
+| M1 | Full admin panel + user impersonation (not possible on directus) | 2 mo (rewrite) | 0.5 mo | 0.8 mo |
+| M2 | Rate limiting, brute-force protection, 2FA | 0.5 mo | 0.3 mo | 0.6 mo |
+| M3 | Proper monitoring + logging (Sentry/Datadog) | 1.5 mo | 0.4 mo | 0.4 mo |
+| M4 | CI/CD pipelines + automated tests | 2 mo | 0.5 mo | 1 mo |
+| M5 | Full security audit & pentest | 0.5 mo setup | 0.5 mo | 2 mo external |
+| M6 | Performance & load testing (10k+ users) | 0.5 mo | 0.4 mo | 1.5 mo |
+| M7 | Backup, disaster recovery & rollback | 0.5 mo | 0.5 mo | 0.8 mo |
+| M8 | Transactional email deliverability system | 1 mo | 0.3 mo | 0.4 mo |
+| M9 | KYC / age verification (JP requirements) | 1.5 mo | 0.4 mo | 0.5 mo |
+| M10 | Customer support tools integration | 1.5 mo | 0.5 mo | 0.5 mo |
+| M11 | Onboarding flows & in-app tutorials | 2 mo | 0.6 mo | 0.6 mo |
+| M12 | Full mobile-responsive + PWA fixes | 2 mo | 0.5 mo | 0.8 mo |
+| M13 | App Store / Google Play compliance | 1 mo | 0.5 mo | 0.5 mo |
+| M14 | Accessibility WCAG 2.1 AA | 2 mo | 0.5 mo | 1 mo |
 
 
 ## Concluson

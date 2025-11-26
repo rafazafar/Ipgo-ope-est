@@ -43,9 +43,9 @@ Before reading please note that the IPGO and OPE current system was never design
 | 13 | Country-specific contract templates | 1 mo | 0.3 mo | 0.25 mo |
 | 14 | Electronic signature integration (DocuSign / ModuSign) | 1 mo | 0.25 mo | 0.25 mo |
 | 15 | Automated royalty calculation & splitting engine | 1.5 mo | 0.4 mo | 0.5 mo |
-| 16 | Multi-currency royalty settlement + escrow + MG offset | 1.5 mo | 0.4 mo | 0.4 mo |
+| 16 | Multi-currency royalty settlement + escrow + MG offset | 3 mo | 0.4 mo | 0.4 mo |
 | 17 | Japan dual-permission certificate system | 0.75 mo | 0.2 mo | 0.2 mo |
-| 18 | Dispute filing & arbitration committee module | 1 mo | 0.3 mo | 0.3 mo |
+| 18 | Dispute filing & arbitration committee module | 2 mo | 0.3 mo | 0.3 mo |
 | 19 | AI-powered Creator/Brand matching & recommendations | 1.5 mo | 0.4 mo | 0.4 mo |
 | 20 | Advanced IP analytics dashboard + competitor comparison | 1.5 mo | 0.4 mo | 0.4 mo |
 
